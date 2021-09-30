@@ -58,7 +58,7 @@ app.get('/api/restaurants', [query('page'), query('perPage')], async (req, res, 
     }
     let { page, perPage, borough } = req.query
     page = parseInt(page)
-    page = parseInt(perPage)
+    perPage = parseInt(perPage)
     const allRestaurants = await db.getAllRestaurants(page, perPage, borough)
     console.log(allRestaurants)
     res.json({
