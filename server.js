@@ -6,9 +6,9 @@
  *
  * Name: Tim Lin Student ID: 105586192 Date: 2021-09-17
  *
- * Github Link: https://github.com/Crayon826/422ASS1
+ * Github Link: https://github.com/Crayon826/ass1
  *
- * Heroku Link: https://web422-test2.herokuapp.com/
+ * Heroku Link: https://web422222.herokuapp.com/
  *
  ********************************************************************************/
 
